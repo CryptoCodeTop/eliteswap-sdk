@@ -1,5 +1,5 @@
 {
-  "name": "@eliteswap/sdk",
+  "name": "@cryptocode99/sdk",
   "license": "GPL-3.0-or-later",
   "version": "3.0.5",
   "description": "🛠 An SDK for building applications on top of Elite Swap.",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EthereumEliteswap/eliteswap-sdk.git"
+    "url": "git+https://github.com/CryptoCodeTop/tunaswap-sdk.git"
   },
   "keywords": [
     "eliteswap",
@@ -60,9 +60,9 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/EthereumEliteswap/eliteswap-sdk/issues"
+    "url": "https://github.com/CryptoCodeTop/tunaswap-sdk/issues"
   },
-  "homepage": "https://github.com/EthereumEliteswap/eliteswap-sdk#readme",
+  "homepage": "https://github.com/CryptoCodeTop/tunaswap-sdk#readme",
   "directories": {
     "test": "test"
   },
